@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @dutai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dutai/dutai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently focused on refining my skills in C programming, deepening my understanding of the
+language to build efficient and robust applications. Alongside C, I have a strong command of Python
+and JavaScript, which I use to create dynamic and interactive web applications. My experience in web
+development includes mastering foundational techniques that allow me to build responsive and
+user-friendly websites.
